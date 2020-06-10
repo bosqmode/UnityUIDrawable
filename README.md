@@ -21,7 +21,7 @@ Create a screenspace-canvas and insert an UIDrawablePrefab into it.
 
 
 ## UIDrawable.cs
-The whole drawing functionality resides in the UIDrawable.cs, but the UIDrawablePrefab provides a set of tools to make it use.
+The whole drawing functionality resides in the UIDrawable.cs, but the UIDrawablePrefab provides a set of tools to make it easier use.
 
 ### Initialization Color
 Sets the color of the rendertexture (the background being drawn on) on Awake and when erased.
